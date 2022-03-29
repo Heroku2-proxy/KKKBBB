@@ -1,3 +1,9 @@
+0.0.0.0 {
+    errors {
+        404 /data/storage/serv/404.html
+        500 /data/storage/serv/500.html
+    }
+}
 localhost1112:2016 {
 	respond "123, world!"
 }
