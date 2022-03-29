@@ -1,7 +1,7 @@
-localhost12:2016 {
-	respond "6666666666Goodbye, world!"
+localhost1112:2016 {
+	respond "123, world!"
 }
 
-localhost1:111 {
-	respond "6666666666Goodbye, world!"
+localhost1111:111 {
+	respond "456, world!"
 }
