@@ -1,4 +1,4 @@
-:
+123:80
 root * /usr/share/caddy
 file_server browse
 
